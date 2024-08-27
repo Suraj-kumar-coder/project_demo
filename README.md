@@ -1,4 +1,4 @@
 # project_demo
-author:- SURAJ KUMAR
+author:- SURAJ Yadav
 <br>
 This is my first repository
